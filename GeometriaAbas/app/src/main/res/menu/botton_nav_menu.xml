@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/ic_triangulo"
+        android:icon="@drawable/triangulo_preto_branco"
+        android:title="Triangulo"/>
+
+
+
+    <item android:id="@+id/ic_trapezio"
+        android:icon="@drawable/trapezio_preto_branco"
+        android:title="Trapézio"/>
+
+    <item android:id="@+id/ic_losango"
+        android:icon="@drawable/losango_preto_branco"
+        android:title="Losango"/>
+
+</menu>
